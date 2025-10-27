@@ -37,13 +37,6 @@ Tema: FDDI (Conceito de Token Ring e Falha)
 - ✅ Simulação de latência entre nós
 - ✅ Sistema de filas de mensagens
 
----
-
-## 💾 Banco de Dados
-
-O projeto utiliza **PostgreSQL** como banco de dados principal, devido à sua robustez, integridade relacional e compatibilidade com ferramentas modernas.
-
-> 💡 O acesso e manipulação dos dados é feito utilizando **Prisma ORM**, facilitando a comunicação entre o banco e a aplicação Node.js.
 
 ---
 
