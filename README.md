@@ -114,7 +114,7 @@ python token_ring_simulator.py
 ## 📄 Documentação
 
 **📎 Anexos Disponíveis:**
- 1. [📄 Documentação Completa - Entrega 01](https://drive.google.com/drive/folders/0AKCl1NEUBTalUk9PVA)
+ 1. [📄 Documentação Completa - Entrega 01](https://docs.google.com/document/d/1OjXsGWlRVC4G7oisoF2WypfzSHeCLp3V9NUsJucnPAM/edit?usp=sharing)
  
 ---
 
