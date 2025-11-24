@@ -189,7 +189,7 @@ class TokenRingSimulator:
 class TokenRingGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("Simulador FDDI Token Ring - Entrega 3")
+        self.root.title("Simulador FDDI Token Ring - Entrega 04")
         self.root.geometry("1200x800")
         
         self.simulator = TokenRingSimulator(4)
